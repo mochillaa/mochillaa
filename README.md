@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <h1>𝓦𝓮𝓵𝓬𝓸𝓶𝓮!</h1>
+</div>
 
-<!--
-**mochillaa/mochillaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught UI/UX designer and software engineer from Hungary.  
+I'm currently working on a Minecraft launcher called Enigma.
 
-Here are some ideas to get you started:
+## Some stuff about me..
+* **Age:** 19,
+* **Likes:** Coding, games like Minecraft, graphics design, reading and drawing,
+* **Languages:** Hungarian, English, a little bit of French,
+* **Programming Languages:** HTML/(S)CSS, JavaScript, TypeScript, C/C++,
+* **Currently Learning:** Go, Rust, C#,
+* **Frameworks:** NestJS, NextJS, NuxtJS, Vue, React,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+* **Telegram:** [@mochillaa](https://t.me/mochillaa)
+* **Session:** `05720b7c3accb862a98e7616a85a21148fdd84a26197dcfc2d660a57cc81100c23`
+* **Discord:** mochilla#0001
